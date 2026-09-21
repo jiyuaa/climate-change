@@ -5,8 +5,8 @@
 
 ## Team Members
 
-🦸
-🦹
+🦸 Trang Ly <lytrang@berkeley.edu>
+🦹 Jiyun Ahn <jiyuna@berkeley.edu>
 
 ## 🎓 Learning Objectives
 

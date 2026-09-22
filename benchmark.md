@@ -24,7 +24,7 @@ Pick **one**. Do not attempt all three.
    emissions-by-country charts and finds them unactionable.
 
 3. **Is Arctic sea ice actually declining, and by how much?**
-   Your manager has heard the claim and the pushback and wants to see the record.
+   Your manager has heard the claim and the pushback and wants to see the record. 
 
 ## What to hand in
 

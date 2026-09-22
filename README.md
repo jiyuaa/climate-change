@@ -19,10 +19,11 @@
 🌡️ Become familiar with data on global climate change  
 
 ## 📖 Content Overview
+ edit my notebook, and read.me come with a question, issues in notebook , overview 
 
 [💻 Assignment template](climate.ipynb)  
 [💯 Assignment rubric](rubric.md)  
-[📊 Session 2 benchmarking exercise](benchmark.md)  
+[📊 Session 2 benchmarking exercise](benchmark.md)   
 
 Individuals or teams will work through and adapt the questions presented in the climate
 notebook to reproduce key indicators of climate change, similar to NASA's

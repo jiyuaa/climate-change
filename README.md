@@ -21,17 +21,24 @@
 ## 📖 Content Overview
  edit my notebook, and read.me come with a question, issues in notebook , overview 
 
+This repository contains the climate module notebook, `climate.ipynb`, covering the
+first two parts of the module:
+
 [💻 Assignment template](climate.ipynb)  
 [💯 Assignment rubric](rubric.md)  
 [📊 Session 2 benchmarking exercise](benchmark.md)   
 
-Individuals or teams will work through and adapt the questions presented in the climate
-notebook to reproduce key indicators of climate change, similar to NASA's
-<https://climate.nasa.gov/vital-signs>.  Our primary objective is to reproduce the famous
-'hockey-stick' curve first reported in _Nature_ ([Mann et al 1998](https://doi.org/10.1038/33859 "Mann, M., Bradley, R. & Hughes, M. Global-scale temperature patterns and climate forcing over the past six centuries. Nature 392, 779–787 (1998). https://doi.org/10.1038/33859"))
-using the most recent observations and most extensive ice core data.  Along the way we
-will encounter many other datasets and learn about wrangling the diverse conventions in
-tabular data.
+1. **Part 1 — The code you didn't write.** Load the Mauna Loa monthly CO₂ record and
+   verify the parser against the raw header: column names, negative missing-value
+   sentinels, prose caveats, alternative data formats, and an `ibis` load.
+2. **Part 2 — Arctic sea ice.** Build the complete NSIDC G02135 record from all 12
+   monthly files and defend using the September minimum vs. the annual mean.
+
+Each part ends with a verification block (extent, missing data, units, completeness,
+cross-check). Parts 3–5 are not part of this submission.
+
+As a team we will work through and adpat the questions presented in the climate notebook to reproduce key indicators of climate change. This module teaches you to answer the question scientists have always had to ask about code they did not write: *how do I know these numbers are right?* We work through the first two parts — Mauna Loa CO₂ and Arctic sea ice — where a language model writes parsing code that runs cleanly but is wrong in specific, recurring ways.
+Finding those mistakes is the assignment.
 
 A second thread runs through the module. You have a language model that will write the
 parsing code for you, and it is good at it. It is also wrong in specific, recurring ways
@@ -55,9 +62,7 @@ proposes before it runs.
 
 - NOAA Mauna Loa CO2 record — <https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt>
 - NSIDC Arctic sea ice extent (G02135) — <https://nsidc.org/data/G02135>
-- EXIOBASE 3, cloud-optimized Parquet — <https://source.coop/youssef-harby/exiobase-3>
-- Our World in Data CO2 — <https://github.com/owid/co2-data>
-- Vostok ice core — <https://doi.org/10.3334/CDIAC/ATG.009>
+
 
 ## Setup
 

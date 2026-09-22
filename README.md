@@ -47,6 +47,11 @@ pairs a climate data set with one of those failure modes. The notebook does not 
 which; finding out is the assignment. The recurring question is the one scientists have
 always had to answer about code they did not write:
 
+We will be able to answer : Is Arctic sea ice actually declining, and by how much? And does the answer change depending on whether we use the September minimum or annual mean? 
+
+*Is the rate of Arctic sea-ice loss changing as CO₂ accumulates, or is it steady?* 
+
+Yes the Artctic September sea ice extent has declined 
 > How do I know these numbers are right?
 
 Every previous advance that made computing dramatically easier — screens over punchcards,

@@ -19,7 +19,13 @@
 🌡️ Become familiar with data on global climate change  
 
 ## 📖 Content Overview
- edit my notebook, and read.me come with a question, issues in notebook , overview 
+ ## Key Finding and Core Narrtive 
+### 1. Is Arctic sea ice actually declining and by how much? 
+** Yes, Arctic sea ice is clearlier declining. The data in task 2.3 shows that September Minium is declining at  −0.76 M km² per decade (or −0.076 M km²/yr) over the 1979–2025 record.The annual mean is declining at 
+
+### 2. Does the answer change depending on whether we use the September minimum or annual mean? 
+
+### 3. Is the rate of Arctic sea-loss changing as CO2 accumulates or is it s steady loss rate? 
 
 This repository contains the climate module notebook, `climate.ipynb`, covering the
 first two parts of the module:

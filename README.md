@@ -1,6 +1,6 @@
 # Climate Module
 
-!-- EDIT with your badge link --
+<!-- EDIT with your badge link -->
 [![Reproducibility Check](https://github.com/jiyuaa/climate-change/actions/workflows/main.yml/badge.svg)](https://github.com/jiyuaa/climate-change/actions/workflows/main.yml)
 
 ## Team Members

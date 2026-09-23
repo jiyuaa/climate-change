@@ -42,10 +42,10 @@ As a team we will work through and adapt the questions given in the climate note
 
 ## Key Finding and Core Narrative 
 ### 1. Is Arctic sea ice actually declining and by how much? 
-Yes, Arctic sea ice is clearly declining. The data in task 2.3 shows that September Minium is declining at  −0.76 M km² per decade (or −0.076 M km²/yr) over the 1979–2025 record.The annual mean is declining at −0.51 M km² per decade over full years (1979–2025).I was able to know by using the NSIDC data on Arctic sea ice. 
+Yes, Arctic sea ice is clearly declining. The data in task 2.3 shows that September Minium is declining at  −0.76 M km² per decade (or −0.076 M km²/yr) over the 1979–2025 record.The annual mean is declining at −0.51 M km² per decade over full years (1979–2025).I was able to know by using the NSIDC data on Arctic sea ice. x
 
 ### 2. Does the answer change depending on whether we use the September minimum or annual mean? 
-No, the direction does not depend on the index as both September minimum or annual mean decline. 
+No, the direction does not depend on the index as both September minimum or annual mean declining. 
 
 ### 3. Is the rate of Arctic sea-loss changing as CO2 accumulates or is it a steady loss rate? 
  The model for steady linear fit vs CO2 Accumulation shows a linear trend to caputure the trend. CO2 levels were measured at Mauna Loa rose steadily at 315ppm to 425ppm. 
